@@ -1,5 +1,5 @@
 spring:
   datasource:
-    url: "jdbc:mysql://localhost:3306/banking"
+    url: "jdbc:mysql://localhost:3306/healthcaresit"
     username: "root"
     password: "Thunderstrom@2" 
