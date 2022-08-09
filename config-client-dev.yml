@@ -5,4 +5,4 @@ spring:
     password: "Thunderstrom@2"
 test:
  refreshscope:
-  attribute: "This"
+  attribute: "That"
