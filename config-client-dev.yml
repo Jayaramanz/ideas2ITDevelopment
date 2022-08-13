@@ -1,8 +1,8 @@
-spring:
+user:
   datasource:
     url: "jdbc:mysql://localhost:3306/healthcare"
     username: "root"
-    #password: "Thunderstrom@2"
+    password: "Thunderstrom@2"
 test:
  refreshscope:
   attribute: "That"
